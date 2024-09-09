@@ -1,0 +1,20 @@
+.france {
+            width: 450px;
+            height: 315px;
+            display: flex;
+        }
+        
+       .blue {
+            background: #002395;
+            width: 33.33%;
+        }
+        
+        .white {
+            background: #FFFFFF;
+            width: 33.33%;
+        }
+        
+        .red {
+            background: #ED2939;
+            width: 33.33%;
+        }
